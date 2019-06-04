@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d09f3bf2-e6ff-4089-b211-8d11091bd494" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="d09f3bf2-e6ff-4089-b211-8d11091bd494" name="Default Changelist" comment="a">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/products/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/products/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/product/detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trydjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/trydjango/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -200,11 +195,18 @@
       <option name="presentableId" value="Default" />
       <updated>1558632536845</updated>
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1559683515596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559683515596</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49722221" visible="true" weight="0.28026906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -224,6 +226,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/products/migrations/__init__.py">
